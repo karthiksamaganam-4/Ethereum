@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "karthik",
+  "author": "karthik samaganam",
   "license": "ISC",
   "dependencies": {
     "body-parser": "~1.5.2",
